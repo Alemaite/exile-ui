@@ -1,0 +1,625 @@
+[
+  [
+    [
+      "kill the_bloated_miller",
+      "enter areaidg1_town ;; clearfell encampment"
+    ],
+    [
+      "in areaidg1_2 ;; clearfell",
+      "kill beira (+10% cr)"
+    ],
+    [
+      "enter areaidg1_4 ;; grelwood",
+      "kill aragne in aragne's hut (support gem)"
+    ],
+    [
+      "get checkpoint for areaidg1_6 ;; grim tangle",
+      "enter areaidg1_5 ;; red vale"
+    ],
+    [
+      "areaidg1_5 ;; red vale",
+      "get weapon upgrade from refined arm",
+      "click the 3 obelisks",
+      "kill the_rust_king"
+    ],
+    [
+      "(img:portal) to areaidg1_town (img:town2) ;; clearfell encampment",
+      "get spikes from renly",
+      "check for upgrades (movement speed boots, weapons, dmg on gloves etc.)",
+      "back to areaidg1_4 ;; grelwood"
+    ],
+    [
+      "areaidg1_4 ;; grelwood",
+      "put spikes in tree",
+      "head to areaidg1_6 ;; grim tangle"
+    ],
+    [
+      "areaidg1_6 ;; grim tangle",
+      "kill the_rotten_druid"
+    ],
+    [
+      "enter areaidg1_7 ;; cemetery of eternals",
+      "checkpoint areaidg1_9 ;; tomb of consort",
+      "checkpoint areaidg1_8 ;; mausoleum of praetor",
+      "sarcophagus for rings"
+    ],
+    [
+      "enter areaidg1_9 ;; tomb of consort",
+      "kill shadowjoint (rare) for support gem",
+      "kill asinia"
+    ],
+    [
+      "enter areaidg1_8 ;; mausoleum of praetor",
+      "be at least level 7, and kill draven"
+    ],
+    [
+      "enter areaidg1_7 ;; cemetery of eternals",
+      "kill lachlann, and (img:portal) to areaidg1_town (img:town2) ;; clearfell encampment",
+      "check for upgrades"
+    ],
+    [
+      "enter areaidg1_11 ;; hunting grounds",
+      "optional: dryadic ritual",
+      "kill crowbell"
+    ],
+    [
+      "be at least level 8, and enter areaidg1_12 ;; freythorn",
+      "do the rituals and kill the_king_in_the_mists (spirit gem)",
+      "(img:portal) to areaidg1_town (img:town2) ;; clearfell encampment"
+    ],
+    {
+      "condition": [
+        "league-start",
+        "yes"
+      ],
+      "lines": [
+        "areaidg1_town (img:town2) ;; clearfell encampment",
+        "get a charm from finn",
+        "check una for life/mana flask upgrades",
+        "check renly for gear upgrades"
+      ]
+    },
+    [
+      "enter areaidg1_13_1 ;; ogham farmlands",
+      "find una's lute box in una's home",
+      "enter the middle of the crop circle for level 4 skill gem",
+      "enter areaidg1_13_2 ;; ogham village"
+    ],
+    [
+      "areaidg1_13_2 ;; ogham village",
+      "get smithing tools and blacksmith's chest",
+      "kill the_executioner",
+      "talk to lettis",
+      "(img:portal) back to areaidg1_town (img:town2) ;; clearfell encampment"
+    ],
+    [
+      "areaidg1_town (img:town2) ;; clearfell encampment",
+      "talk to una, and get greater life flask (tough zones ahead)",
+      "talk to renly, turn in quest, and check for upgrades"
+    ],
+    [
+      "enter areaidg1_14 ;; manor ramparts",
+      "be at least level 13 before entering areaidg1_15 ;; ogham manor"
+    ],
+    [
+      "areaidg1_15 ;; ogham manor",
+      "kill candlemass (+20 max life)",
+      "be at least level 14 before killing count_geonor",
+      "(img:portal) areaidg1_town (img:town2) ;; clearfell encampment",
+      "talk to the hooded one, and enter act 2 areaidg2_1 ;; vastiri outskirts"
+    ]
+  ],
+  [
+    [
+      "if you find the raided camp grab the level 2 support gem",
+      "kill the rathbreaker",
+      "(img:portal) to town"
+    ],
+    [
+      "areaidg2_town (img:town2) ;; ardura caravan",
+      "talk to asala",
+      "click on the desert map, and head to areaidg2_3a ;; halani gates (blocked)",
+      "after completing quest head to areaidg2_10_1 ;; mawdun quarry"
+    ],
+    [
+      "areaidg2_10_1 ;; mawdun quarry",
+      "enter areaidg2_10_2 ;; mawdun mine"
+    ],
+    [
+      "areaidg2_10_2 ;; mawdun mine",
+      "kill rudja",
+      "talk to risu",
+      "(img:portal) to areaidg2_town (img:town2) ;; ardura caravan"
+    ],
+    [
+      "areaidg2_town (img:town2) ;; ardura caravan",
+      "talk to risu",
+      "talk to asala",
+      "head to areaidg2_2 ;; traitor's passage"
+    ],
+    [
+      "areaidg2_2 ;; traitor's passage",
+      "enter areaidg2_3 ;; halani gates"
+    ],
+    [
+      "areaidg2_3 ;; halani gates",
+      "be at least level 18",
+      "kill jamanra",
+      "follow the wind, then (img:portal) areaidg2_town (img:town2) ;; ardura caravan"
+    ],
+    [
+      "areaidg2_town (img:town2) ;; ardura caravan",
+      "talk to zara",
+      "enter areaidg2_5_1 ;; mastodon badlands"
+    ],
+    [
+      "areaidg2_5_1 ;; mastodon badlands",
+      "watch out for gear upgrades (big upgrades at this point)",
+      "enter areaidg2_5_2 ;; bone pits"
+    ],
+    [
+      "areaidg2_5_2 ;; bone pits",
+      "get sun clan relic from hyenas",
+      "kill iktab_and_ekbab",
+      "(img:portal) areaidg2_town (img:town2) ;; ardura caravan"
+    ],
+    [
+      "enter areaidg2_4_1 ;; keth",
+      "kill kabala",
+      "guaranteed amulet in shrine of hotak (room)",
+      "get kabala clan relic from snakes",
+      "enter areaidg2_4_2 ;; lost city"
+    ],
+    [
+      "areaidg2_4_2 ;; lost city",
+      "check room with offerings for rune and resistance ring",
+      "kill azarian",
+      "end the water godess' suffering",
+      "(img:portal) areaidg2_town (img:town2) ;; ardura caravan",
+      "talk to zarka",
+      "enter areaidg2_6 ;; valley of the titans"
+    ],
+    [
+      "areaidg2_6 ;; valley of the titans",
+      "get checkpoint for the clasped entry",
+      "activate the 3 seals",
+      "set up relics for charm passive",
+      "enter areaidg2_7 ;; titan grotto"
+    ],
+    [
+      "areaidg2_7 ;; titan grotto",
+      "kill zalmarath",
+      "(img:portal) areaidg2_town (img:town2) ;; ardura caravan",
+      "talk to zarka",
+      "sound the horn",
+      "upgrade flasks",
+      "enter areaidg2_8 ;; deshar"
+    ],
+    [
+      "areaidg2_8 ;; deshar",
+      "optional: killing watchful twins for djinn barya (1st ascension)",
+      "get the final letter from corpse",
+      "be at least level 24,5",
+      "enter areaidg2_9_1 ;; path of mourning"
+    ],
+    [
+      "areaidg2_9_1 ;; path of mourning",
+      "enter areaidg2_9_2 ;; spires of deshar"
+    ],
+    [
+      "areaidg2_9_2 ;; spires of deshar",
+      "get +lr from shrine of the sisters",
+      "be at least level 26",
+      "kill tor_gul",
+      "(img:portal) areaidg2_town (img:town2) ;; ardura caravan"
+    ],
+    [
+      "areaidg2_town (img:town2) ;; ardura caravan",
+      "turn in quest to shambrin",
+      "enter areaidg2_12 ;; the dreadnought"
+    ],
+    [
+      "areaidg2_12 ;; the dreadnought",
+      "be at least level 28",
+      "kill jamanra",
+      "(img:portal) areaidg2_town (img:town2) ;; ardura caravan"
+    ],
+    [
+      "areaidg2_town (img:town2) ;; ardura caravan",
+      "talk to the hooded one",
+      "head to areaidg3_1 ;; sandswept marsh"
+    ]
+  ],
+  [
+    [
+      "areaidg3_1 ;; sandswept marsh",
+      "kill rootredge",
+      "be at least level 29",
+      "optional: get lesser jeweller's orb from camp",
+      "enter areaidg3_town (img:town2) ;; ziggurat encampment"
+    ],
+    [
+      "areaidg3_town (img:town2) ;; ziggurat encampment",
+      "check oswald for upgrades",
+      "enter areaidg3_3 ;; jungle ruins"
+    ],
+    [
+      "areaidg3_3 ;; jungle ruins",
+      "kill mighty_silverfist",
+      "optional: guaranteed rare gloves from camp",
+      "optional: click ravaged corpse (free rare belt)",
+      "enter areaidg3_4 ;; venom crypts"
+    ],
+    [
+      "areaidg3_4 ;; venom crypts",
+      "pick up corpse snake venom",
+      "turn it in to servi",
+      "check vendors for upgrades",
+      "enter areaidg3_2_1 ;; infested barrens"
+    ],
+    [
+      "areaidg3_2_1 ;; infested barrens",
+      "optiona: rare boots in troubled camp",
+      "enter areaidg3_5 ;; chimeral wetlands"
+    ],
+    [
+      "areaidg3_5 ;; chimeral wetlands",
+      "kill xyclucian",
+      "enter areaidg3_6_1 ;; jiquani's machinarium"
+    ],
+    [
+      "areaidg3_6_1 ;; jiquani's machinarium",
+      "pick up soul cores to progress",
+      "tip: you can jump through the blockages",
+      "kill blackjaw (+fr)",
+      "enter areaidg3_6_2 ;; jiquani's sanctum"
+    ],
+    [
+      "areaidg3_6_2 ;; jiquani's sanctum",
+      "insert the 2 soul cores",
+      "kill zicoatl",
+      "enter areaidg3_3 ;; jungle ruins"
+    ],
+    [
+      "areaidg3_3 ;; jungle ruins",
+      "insert the large soul core",
+      "enter areaidg3_2_2 ;; matlan waterways"
+    ],
+    [
+      "areaidg3_2_2 ;; matlan waterways",
+      "pull the levers, and move through the area to pull the final canal lever",
+      "enter areaidg3_7 ;; azak bog"
+    ],
+    [
+      "areaidg3_7 ;; azak bog",
+      "optional: farm xp at the flameskin ritual (reset checkpoint)",
+      "kill ignagduk",
+      "(img:portal) areaidg3_town (img:town2) ;; ziggurat encampment"
+    ],
+    [
+      "areaidg3_town (img:town2) ;; ziggurat encampment",
+      "turn in spear to servi for charm (thawing or staunching recommended)",
+      "head downstairs, and talk to alva",
+      "enter areaidg3_8 ;; drowned city"
+    ],
+    [
+      "areaidg3_8 ;; drowned city",
+      "pick up the waypoint",
+      "enter areaidg3_9 ;; molten vault"
+    ],
+    [
+      "areaidg3_9 ;; molten vault",
+      "kill mektul",
+      "(img:portal) areaidg3_town (img:town2) ;; ziggurat encampment",
+      "turn in quest to unlock reforging bench",
+      "return to areaidg3_8 ;; drowned city"
+    ],
+    [
+      "areaidg3_8 ;; drowned city",
+      "enter areaidg3_11 ;; apex of filth",
+      "kill the_queen_of_filth",
+      "return to (img:waypoint) areaidg3_8 ;; drowned city",
+      "enter areaidg3_town (img:town2) ;; ziggurat encampment"
+    ],
+    [
+      "areaidg3_town (img:town2) ;; ziggurat encampment",
+      "enter areaidg3_12 ;; temple of kopec",
+      "50% chance the exit is in the corner (reset and check other corners, if not)",
+      "on 2cnd floor exit is always on the blocked side (jump over to the corner)",
+      "kill ketzuli",
+      "(img:portal) areaidg3_town (img:town2) ;; ziggurat encampment"
+    ],
+    [
+      "areaidg3_town (img:town2) ;; ziggurat encampment",
+      "check vendors",
+      "enter areaidg3_14 ;; utzaal"
+    ],
+    [
+      "areaidg3_14 ;; utzaal",
+      "kill goliaths for sacrificial heart",
+      "kill viper_napuatzi",
+      "enter areaidg3_16 ;; aggorat"
+    ],
+    [
+      "areaidg3_16 ;; aggorat",
+      "follow the trail of sacrifice and place the sacrificial heart",
+      "reset checkpoint",
+      "enter areaidg3_17 ;; black chambers"
+    ],
+    [
+      "areaidg3_17 ;; black chambers",
+      "kill doryani",
+      "(img:portal) areaidg3_town (img:town2) ;; ziggurat encampment"
+    ],
+    [
+      "areaidg3_town (img:town2) ;; ziggurat encampment",
+      "talk to doryani",
+      "talk to alva",
+      "proceed to areaidg4_town (img:town2) ;; kingsmarch"
+    ]
+  ],
+  [
+    [
+      "enter areaidg4_2_1 ;; kedge bay"
+    ],
+    [
+      "areaidg4_2_1 ;; kedge bay",
+      "enter areaidg4_2_2 ;; journey's end"
+    ],
+    [
+      "areaidg4_2_2 ;; journey's end",
+      "kill captain_hartlin",
+      "(img:portal) areaidg4_town (img:town2) ;; kingsmarch"
+    ],
+    [
+      "areaidg4_town (img:town2) ;; kingsmarch",
+      "turn quest in to dannig"
+    ],
+    [
+      "enter areaidg4_2_2 ;; journey's end",
+      "start the delirium",
+      "kill omniphobia",
+      "return to ship, and enter areaidg4_1_1 ;; isle of kin"
+    ],
+    [
+      "areaidg4_1_1 ;; isle of kin",
+      "optional: along the outher edges there is a lesser jeweller's orb (fossilized formation)",
+      "optional: kill the_blind_beast for a rune",
+      "enter areaidg4_1_2 ;; volcanic warrens"
+    ],
+    [
+      "areaidg4_1_2 ;; volcanic warrens",
+      "optional (recommended): kill fire and lightning golems (one that dies last gives respective resistance ring)",
+      "kill krutog",
+      "return to ship, and sail to areaidg4_3_1 ;; whakapanu island"
+    ],
+    [
+      "areaidg4_3_1 ;; whakapanu island",
+      "kill shark in the shark pit",
+      "enter areaidg4_3_2 ;; singing caverns"
+    ],
+    [
+      "areaidg4_3_2 ;; singing caverns",
+      "click the beckoning clam for pearl",
+      "kill diamora",
+      "return to ship, sail to areaidg4_5_1 ;; abandoned prison"
+    ],
+    [
+      "areaidg4_5_1 ;; abandoned prison",
+      "get chapel key from necromancers",
+      "open gates, choose reward from statues",
+      "enter areaidg4_5_2 ;; solitary confinement"
+    ],
+    [
+      "areaidg4_5_2 ;; solitary confinement",
+      "hug the wall, jump over barred walls",
+      "kill the_prisoner (use ballista when prompted)",
+      "(img:portal) areaidg4_town (img:town2) ;; kingsmarch"
+    ],
+    [
+      "areaidg4_town (img:town2) ;; kingsmarch",
+      "turn in pearl to rog",
+      "get greater rune from dannig",
+      "set sail to areaidg4_7 ;; shrike island"
+    ],
+    [
+      "areaidg4_7 ;; shrike island",
+      "tip: skip shrine go straight to boss, checkpoint back to shrine, kill boss with shrine",
+      "kill scourge_of_the_skies",
+      "talk to npc to unlock areaidg4_4_1 ;; eye of hinekora",
+      "return to ship, sail to areaidg4_4_1 ;; eye of hinekora"
+    ],
+    [
+      "areaidg4_4_1 ;; eye of hinekora",
+      "kill bosses, interact with well",
+      "respawn at checkpoint, head over to areaidg4_4_2 ;; halls of the dead"
+    ],
+    [
+      "areaidg4_4_2 ;; halls of the dead",
+      "kill monsters for tattoos (+resistance recommended)",
+      "kill yama_the_white",
+      "talk to navali for passive points",
+      "return to ship, sail to areaidg4_8b ;; arastas (hostile)"
+    ],
+    [
+      "areaidg4_8b ;; arastas (hostile)",
+      "talk to npc, go inside, head back out and break the barrier (with dps)",
+      "optional: click both bells for 3 exalts, and 3 regals",
+      "kill torvian (stand next to left or right priest when he picks up a rock)",
+      "enter areaidg4_10 ;; the excavation"
+    ],
+    [
+      "areaidg4_10 ;; the excavation",
+      "tip: use shrine \"trick\" again",
+      "kill benedictus",
+      "(img:portal) areaidg4_town (img:town2) ;; kingsmarch"
+    ],
+    [
+      "areaidg4_town (img:town2) ;; kingsmarch",
+      "set sail to areaidg4_11_1b ;; ngakanu (hostile)",
+      "optional: vaal league mechanic rewards greater jeweller's orb",
+      "hug the right wall to enter areaidg4_11_2 ;; heart of the tribe"
+    ],
+    [
+      "areaidg4_11_2 ;; heart of the tribe",
+      "kill tavakai",
+      "(img:portal) areaidg4_town (img:town2) ;; kingsmarch"
+    ],
+    [
+      "areaidg4_town (img:town2) ;; kingsmarch",
+      "enter interlude 2 (vastiri desert)"
+    ]
+  ],
+  [
+    [
+      "enter areaidp1_1 ;; scorched farmlands"
+    ],
+    [
+      "areaidp1_1 ;; scorched farmlands",
+      "get (img:waypoint) next to the darkness",
+      "kill isolde_and_heldra",
+      "enter areaidp1_2 ;; stones of serle"
+    ],
+    [
+      "areaidp1_2 ;; stones of serle",
+      "click all 6 stones to spawn boss at center",
+      "kill siora",
+      "wait, and talk to una",
+      "teleport to (img:waypoint), enter areaidp1_1 ;; scorched farmlands"
+    ],
+    [
+      "areaidp1_1 ;; scorched farmlands",
+      "(img:waypoint) near the darkness, and enter areaidp1_3 ;; the blackwood"
+    ],
+    [
+      "areaidp1_3 ;; the blackwood",
+      "head left to reach areaidp1_4 ;; holten"
+    ],
+    [
+      "areaidp1_4 ;; holten",
+      "optional: find the soul of the ferrymen in the center that sells useful runes",
+      "enter areaidp1_5 ;; wolvenhold"
+    ],
+    [
+      "areaidp1_5 ;; wolvenhold",
+      "kill oswin",
+      "(img:waypoint) back to enter holten"
+    ],
+    [
+      "areaidp1_4 ;; holten",
+      "enter areaidp1_6 ;; holten estate"
+    ],
+    [
+      "areaidp1_6 ;; holten estate",
+      "loop around to reach the stairs",
+      "same thing on the second floor",
+      "kill lady_elswyth_and_thane_wulfric (lady_elswyth first)",
+      "(img:portal) areaidp1_town (img:town2) ;; the refuge"
+    ],
+    [
+      "areaidp1_town (img:town2) ;; the refuge",
+      "talk to renly",
+      "(img:waypoint) to act 4 and get passive points from the hooded one",
+      "travel to oriath"
+    ],
+    [
+      "talk to alva, and start your first map"
+    ]
+  ],
+  [
+    [
+      "areaidp2_1 ;; khari crossing",
+      "kill akthi_and_anundr",
+      "(img:portal) areaidp2_town (img:town2) ;; khari bazaar"
+    ],
+    [
+      "areaidp2_town (img:town2) ;; khari bazaar",
+      "get 2 passive points from risu",
+      "enter areaidp2_1 ;; khari crossing"
+    ],
+    [
+      "areaidp2_1 ;; khari crossing",
+      "head top right, then north, if you hit a wall, then go left",
+      "enter skullmaw stairway get the molten one's gift (+5% max life passive)",
+      "respawn at checkpoint"
+    ],
+    [
+      "areaidp2_1 ;; khari crossing",
+      "go left get (img:waypoint) areaidp2_5 ;; galai gates",
+      "enter areaidp2_2 ;; pools of khatal"
+    ],
+    [
+      "areaidp2_2 ;; pools of khatal",
+      "enter areaidp2_3 ;; sel khari sanctuary"
+    ],
+    [
+      "areaidp2_3 ;; sel khari sanctuary",
+      "optional: place the 2 baryas you find at their respective pedestals for amulet/ring",
+      "kill elzarah",
+      "talk to asala",
+      "(img:portal) areaidp2_town (img:town2) ;; khari bazaar"
+    ],
+    [
+      "areaidp2_town (img:town2) ;; khari bazaar",
+      "enter areaidp2_5 ;; galai gates"
+    ],
+    [
+      "areaidp2_5 ;; galai gates",
+      "enter areaidp2_6 ;; qimah"
+    ],
+    [
+      "areaidp2_6 ;; qimah",
+      "find the boons, and pick a buff (+5% ar recommended)",
+      "enter areaidp2_7 ;; qimah reservoir"
+    ],
+    [
+      "areaidp2_7 ;; qimah reservoir",
+      "kill azmadi",
+      "(img:portal) areaidp2_town (img:town2) ;; khari bazaar"
+    ],
+    [
+      "talk to the hooded one, and go to mount kriar (interlude 3)"
+    ]
+  ],
+  [
+    [
+      "enter areaidp3_1 ;; ashen forest"
+    ],
+    [
+      "areaidp3_1 ;; ashen forest",
+      "enter areaidp3_2 ;; kriar village"
+    ],
+    [
+      "areaidp3_2 ;; kriar village",
+      "kill lythara",
+      "enter areaidp3_3 ;; glacial tarn"
+    ],
+    [
+      "areaidp3_3 ;; glacial tarn",
+      "hug the right wall, and enter areaidp3_4 ;; howling caves"
+    ],
+    [
+      "areaidp3_4 ;; howling caves",
+      "kill the_abominal_yeti",
+      "(img:portal) areaidp3_town (img:town2) ;; the glade"
+    ],
+    [
+      "areaidp3_town (img:town2) ;; the glade",
+      "turn in tusks to hilda",
+      "enter areaidp3_3 ;; glacial tarn"
+    ],
+    [
+      "areaidp3_3 ;; glacial tarn",
+      "kill rakaar",
+      "kill stormgore",
+      "equip staunching charm before next boss (zelina applies bleed)",
+      "kill zelina_and_zolin (focus zelina first)",
+      "talk to doryani",
+      "(img:portal) areaidp3_town (img:town2) ;; the glade"
+    ],
+    [
+      "areaidp3_town (img:town2) ;; the glade",
+      "talk to the hooded one, move on to the final interlude"
+    ]
+  ]
+]
