@@ -5,107 +5,105 @@
       "enter areaidg1_town ;; clearfell encampment"
     ],
     [
-      "in areaidg1_2 ;; clearfell",
-      "kill beira (+10% cr)"
+      "turn in quest to renly",
+      "enter areaidg1_2 ;; clearfell"
     ],
     [
-      "enter areaidg1_4 ;; grelwood",
-      "kill aragne in aragne's hut (support gem)"
+      "kill beira (+10% cr)",
+      "enter areaidg1_4 ;; grelwood"
     ],
     [
+      "kill aragne in aragne's hut (support gem)",
       "get checkpoint for areaidg1_6 ;; grim tangle",
       "enter areaidg1_5 ;; red vale"
     ],
     [
-      "areaidg1_5 ;; red vale",
       "get weapon upgrade from refined arm",
       "click the 3 obelisks",
-      "kill the_rust_king"
+      "kill the_rust_king",
+      "(img:portal) to areaidg1_town (img:town2) ;; clearfell encampment"
     ],
     [
-      "(img:portal) to areaidg1_town (img:town2) ;; clearfell encampment",
       "get spikes from renly",
       "check for upgrades (movement speed boots, weapons, dmg on gloves etc.)",
       "back to areaidg1_4 ;; grelwood"
     ],
     [
-      "areaidg1_4 ;; grelwood",
       "put spikes in tree",
+      "talk to una",
+      "(img:portal) areaidg1_town (img:town2) ;; clearfell encampment"
+    ],
+    [
+      "talk to una",
       "head to areaidg1_6 ;; grim tangle"
     ],
     [
-      "areaidg1_6 ;; grim tangle",
-      "kill the_rotten_druid"
+      "kill the_rotten_druid",
+      "enter areaidg1_7 ;; cemetery of eternals"
     ],
     [
-      "enter areaidg1_7 ;; cemetery of eternals",
       "checkpoint areaidg1_9 ;; tomb of consort",
       "checkpoint areaidg1_8 ;; mausoleum of praetor",
-      "sarcophagus for rings"
+      "sarcophagus for rings",
+      "enter areaidg1_9 ;; tomb of consort"
     ],
     [
-      "enter areaidg1_9 ;; tomb of consort",
       "kill shadowjoint (rare) for support gem",
-      "kill asinia"
+      "kill asinia",
+      "enter areaidg1_8 ;; mausoleum of praetor"
     ],
     [
-      "enter areaidg1_8 ;; mausoleum of praetor",
-      "be at least level 7, and kill draven"
+      "be at least level 7, and kill draven",
+      "enter areaidg1_7 ;; cemetery of eternals"
     ],
     [
-      "enter areaidg1_7 ;; cemetery of eternals",
-      "kill lachlann, and (img:portal) to areaidg1_town (img:town2) ;; clearfell encampment",
-      "check for upgrades"
+      "kill lachlann",
+      "(img:portal) to areaidg1_town (img:town2) ;; clearfell encampment"
     ],
     [
-      "enter areaidg1_11 ;; hunting grounds",
+      "check for upgrades",
+      "enter areaidg1_11 ;; hunting grounds"
+    ],
+    [
       "optional: dryadic ritual",
-      "kill crowbell"
+      "kill crowbell",
+      "be at least level 8, and enter areaidg1_12 ;; freythorn"
     ],
     [
-      "be at least level 8, and enter areaidg1_12 ;; freythorn",
       "do the rituals and kill the_king_in_the_mists (spirit gem)",
       "(img:portal) to areaidg1_town (img:town2) ;; clearfell encampment"
     ],
-    {
-      "condition": [
-        "league-start",
-        "yes"
-      ],
-      "lines": [
-        "areaidg1_town (img:town2) ;; clearfell encampment",
-        "get a charm from finn",
-        "check una for life/mana flask upgrades",
-        "check renly for gear upgrades"
-      ]
-    },
     [
-      "enter areaidg1_13_1 ;; ogham farmlands",
+      "get a charm from finn",
+      "check una for life/mana flask upgrades",
+      "check renly for gear upgrades",
+      "enter areaidg1_13_1 ;; ogham farmlands"
+    ],
+    [
       "find una's lute box in una's home",
       "enter the middle of the crop circle for level 4 skill gem",
       "enter areaidg1_13_2 ;; ogham village"
     ],
     [
-      "areaidg1_13_2 ;; ogham village",
       "get smithing tools and blacksmith's chest",
       "kill the_executioner",
       "talk to lettis",
       "(img:portal) back to areaidg1_town (img:town2) ;; clearfell encampment"
     ],
     [
-      "areaidg1_town (img:town2) ;; clearfell encampment",
       "talk to una, and get greater life flask (tough zones ahead)",
-      "talk to renly, turn in quest, and check for upgrades"
+      "talk to renly, turn in quest, and check for upgrades",
+      "enter areaidg1_14 ;; manor ramparts"
     ],
     [
-      "enter areaidg1_14 ;; manor ramparts",
       "be at least level 13 before entering areaidg1_15 ;; ogham manor"
     ],
     [
-      "areaidg1_15 ;; ogham manor",
       "kill candlemass (+20 max life)",
       "be at least level 14 before killing count_geonor",
-      "(img:portal) areaidg1_town (img:town2) ;; clearfell encampment",
+      "(img:portal) areaidg1_town (img:town2) ;; clearfell encampment"
+    ],
+    [
       "talk to the hooded one, and enter act 2 areaidg2_1 ;; vastiri outskirts"
     ]
   ],
