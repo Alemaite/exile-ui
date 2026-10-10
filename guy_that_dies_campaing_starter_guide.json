@@ -93,6 +93,7 @@
     [
       "talk to una, and get greater life flask (tough zones ahead)",
       "talk to renly, turn in quest, and check for upgrades",
+      "talk to leitis, and get skill gem reward",
       "enter areaidg1_14 ;; manor ramparts"
     ],
     [
@@ -110,120 +111,115 @@
   [
     [
       "if you find the raided camp grab the level 2 support gem",
-      "kill the rathbreaker",
+      "kill the_rathbreaker",
       "(img:portal) to town"
     ],
     [
-      "areaidg2_town (img:town2) ;; ardura caravan",
+      "talk to zarka",
+      "enter areaidg2_town (img:town2) ;; ardura caravan"
+    ],
+    [
       "talk to asala",
-      "click on the desert map, and head to areaidg2_3a ;; halani gates (blocked)",
+      "click on the desert map, and head to areaidg2_3a ;; halani gates (blocked)"
+    ],
+    [
       "after completing quest head to areaidg2_10_1 ;; mawdun quarry"
     ],
     [
-      "areaidg2_10_1 ;; mawdun quarry",
       "enter areaidg2_10_2 ;; mawdun mine"
     ],
     [
-      "areaidg2_10_2 ;; mawdun mine",
       "kill rudja",
       "talk to risu",
       "(img:portal) to areaidg2_town (img:town2) ;; ardura caravan"
     ],
     [
-      "areaidg2_town (img:town2) ;; ardura caravan",
       "talk to risu",
       "talk to asala",
       "head to areaidg2_2 ;; traitor's passage"
     ],
     [
-      "areaidg2_2 ;; traitor's passage",
       "enter areaidg2_3 ;; halani gates"
     ],
     [
-      "areaidg2_3 ;; halani gates",
       "be at least level 18",
       "kill jamanra",
       "follow the wind, then (img:portal) areaidg2_town (img:town2) ;; ardura caravan"
     ],
     [
-      "areaidg2_town (img:town2) ;; ardura caravan",
       "talk to zara",
       "enter areaidg2_5_1 ;; mastodon badlands"
     ],
     [
-      "areaidg2_5_1 ;; mastodon badlands",
       "watch out for gear upgrades (big upgrades at this point)",
       "enter areaidg2_5_2 ;; bone pits"
     ],
     [
-      "areaidg2_5_2 ;; bone pits",
       "get sun clan relic from hyenas",
       "kill iktab_and_ekbab",
       "(img:portal) areaidg2_town (img:town2) ;; ardura caravan"
     ],
     [
-      "enter areaidg2_4_1 ;; keth",
+      "talk to zarka",
+      "enter areaidg2_4_1 ;; keth"
+    ],
+    [
       "kill kabala",
       "guaranteed amulet in shrine of hotak (room)",
       "get kabala clan relic from snakes",
       "enter areaidg2_4_2 ;; lost city"
     ],
     [
-      "areaidg2_4_2 ;; lost city",
       "check room with offerings for rune and resistance ring",
       "kill azarian",
       "end the water godess' suffering",
-      "(img:portal) areaidg2_town (img:town2) ;; ardura caravan",
+      "(img:portal) areaidg2_town (img:town2) ;; ardura caravan"
+    ],
+    [
       "talk to zarka",
       "enter areaidg2_6 ;; valley of the titans"
     ],
     [
-      "areaidg2_6 ;; valley of the titans",
       "get checkpoint for the clasped entry",
       "activate the 3 seals",
       "set up relics for charm passive",
       "enter areaidg2_7 ;; titan grotto"
     ],
     [
-      "areaidg2_7 ;; titan grotto",
       "kill zalmarath",
-      "(img:portal) areaidg2_town (img:town2) ;; ardura caravan",
+      "(img:portal) areaidg2_town (img:town2) ;; ardura caravan"
+    ],
+    [
       "talk to zarka",
       "sound the horn",
       "upgrade flasks",
       "enter areaidg2_8 ;; deshar"
     ],
     [
-      "areaidg2_8 ;; deshar",
       "optional: killing watchful twins for djinn barya (1st ascension)",
       "get the final letter from corpse",
       "be at least level 24,5",
       "enter areaidg2_9_1 ;; path of mourning"
     ],
     [
-      "areaidg2_9_1 ;; path of mourning",
       "enter areaidg2_9_2 ;; spires of deshar"
     ],
     [
-      "areaidg2_9_2 ;; spires of deshar",
       "get +lr from shrine of the sisters",
       "be at least level 26",
       "kill tor_gul",
       "(img:portal) areaidg2_town (img:town2) ;; ardura caravan"
     ],
     [
-      "areaidg2_town (img:town2) ;; ardura caravan",
       "turn in quest to shambrin",
       "enter areaidg2_12 ;; the dreadnought"
     ],
     [
-      "areaidg2_12 ;; the dreadnought",
       "be at least level 28",
       "kill jamanra",
       "(img:portal) areaidg2_town (img:town2) ;; ardura caravan"
     ],
     [
-      "areaidg2_town (img:town2) ;; ardura caravan",
       "talk to the hooded one",
       "head to areaidg3_1 ;; sandswept marsh"
     ]
