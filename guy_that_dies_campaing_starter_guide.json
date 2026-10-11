@@ -65,7 +65,7 @@
       "enter areaidg1_11 ;; hunting grounds"
     ],
     [
-      "optional: dryadic ritual",
+      "dryadic ritual (support gem), if you find it",
       "kill crowbell",
       "be at least level 8, and enter areaidg1_12 ;; freythorn"
     ],
@@ -196,7 +196,7 @@
       "enter areaidg2_8 ;; deshar"
     ],
     [
-      "optional: killing watchful twins for djinn barya (1st ascension)",
+      "kill watchful_twins for djinn barya (1st ascension), if you need it",
       "get the final letter from corpse",
       "be at least level 24,5",
       "enter areaidg2_9_1 ;; path of mourning"
@@ -226,127 +226,112 @@
   ],
   [
     [
-      "areaidg3_1 ;; sandswept marsh",
       "kill rootredge",
       "be at least level 29",
-      "optional: get lesser jeweller's orb from camp",
+      "get lesser jeweller's orb from camp, if you need it",
       "enter areaidg3_town (img:town2) ;; ziggurat encampment"
     ],
     [
-      "areaidg3_town (img:town2) ;; ziggurat encampment",
       "check oswald for upgrades",
       "enter areaidg3_3 ;; jungle ruins"
     ],
     [
-      "areaidg3_3 ;; jungle ruins",
       "kill mighty_silverfist",
-      "optional: guaranteed rare gloves from camp",
-      "optional: click ravaged corpse (free rare belt)",
+      "guaranteed rare gloves from camp, if you need it",
+      "click ravaged corpse (free rare belt), if you need it",
       "enter areaidg3_4 ;; venom crypts"
     ],
     [
-      "areaidg3_4 ;; venom crypts",
       "pick up corpse snake venom",
       "turn it in to servi",
       "check vendors for upgrades",
       "enter areaidg3_2_1 ;; infested barrens"
     ],
     [
-      "areaidg3_2_1 ;; infested barrens",
-      "optiona: rare boots in troubled camp",
+      "rare boots in troubled camp, if you need them",
       "enter areaidg3_5 ;; chimeral wetlands"
     ],
     [
-      "areaidg3_5 ;; chimeral wetlands",
       "kill xyclucian",
       "enter areaidg3_6_1 ;; jiquani's machinarium"
     ],
     [
-      "areaidg3_6_1 ;; jiquani's machinarium",
       "pick up soul cores to progress",
       "tip: you can jump through the blockages",
       "kill blackjaw (+fr)",
       "enter areaidg3_6_2 ;; jiquani's sanctum"
     ],
     [
-      "areaidg3_6_2 ;; jiquani's sanctum",
       "insert the 2 soul cores",
       "kill zicoatl",
       "enter areaidg3_3 ;; jungle ruins"
     ],
     [
-      "areaidg3_3 ;; jungle ruins",
       "insert the large soul core",
       "enter areaidg3_2_2 ;; matlan waterways"
     ],
     [
-      "areaidg3_2_2 ;; matlan waterways",
       "pull the levers, and move through the area to pull the final canal lever",
       "enter areaidg3_7 ;; azak bog"
     ],
     [
-      "areaidg3_7 ;; azak bog",
-      "optional: farm xp at the flameskin ritual (reset checkpoint)",
+      "farm xp at the flameskin ritual (reset checkpoint), if you're behind in xp",
       "kill ignagduk",
       "(img:portal) areaidg3_town (img:town2) ;; ziggurat encampment"
     ],
     [
-      "areaidg3_town (img:town2) ;; ziggurat encampment",
       "turn in spear to servi for charm (thawing or staunching recommended)",
       "head downstairs, and talk to alva",
       "enter areaidg3_8 ;; drowned city"
     ],
     [
-      "areaidg3_8 ;; drowned city",
       "pick up the waypoint",
       "enter areaidg3_9 ;; molten vault"
     ],
     [
-      "areaidg3_9 ;; molten vault",
       "kill mektul",
       "(img:portal) areaidg3_town (img:town2) ;; ziggurat encampment",
       "turn in quest to unlock reforging bench",
       "return to areaidg3_8 ;; drowned city"
     ],
     [
-      "areaidg3_8 ;; drowned city",
-      "enter areaidg3_11 ;; apex of filth",
+      "enter areaidg3_11 ;; apex of filth"
+    ],
+    [
       "kill the_queen_of_filth",
-      "return to (img:waypoint) areaidg3_8 ;; drowned city",
+      "return to (img:waypoint) areaidg3_8 ;; drowned city"
+    ],
+    [
       "enter areaidg3_town (img:town2) ;; ziggurat encampment"
     ],
     [
-      "areaidg3_town (img:town2) ;; ziggurat encampment",
-      "enter areaidg3_12 ;; temple of kopec",
+      "enter areaidg3_12 ;; temple of kopec"
+    ],
+    [
       "50% chance the exit is in the corner (reset and check other corners, if not)",
       "on 2cnd floor exit is always on the blocked side (jump over to the corner)",
       "kill ketzuli",
       "(img:portal) areaidg3_town (img:town2) ;; ziggurat encampment"
     ],
     [
-      "areaidg3_town (img:town2) ;; ziggurat encampment",
       "check vendors",
       "enter areaidg3_14 ;; utzaal"
     ],
     [
-      "areaidg3_14 ;; utzaal",
       "kill goliaths for sacrificial heart",
       "kill viper_napuatzi",
       "enter areaidg3_16 ;; aggorat"
     ],
     [
-      "areaidg3_16 ;; aggorat",
       "follow the trail of sacrifice and place the sacrificial heart",
       "reset checkpoint",
       "enter areaidg3_17 ;; black chambers"
     ],
     [
-      "areaidg3_17 ;; black chambers",
       "kill doryani",
       "(img:portal) areaidg3_town (img:town2) ;; ziggurat encampment"
     ],
     [
-      "areaidg3_town (img:town2) ;; ziggurat encampment",
       "talk to doryani",
       "talk to alva",
       "proceed to areaidg4_town (img:town2) ;; kingsmarch"
@@ -377,13 +362,13 @@
     ],
     [
       "areaidg4_1_1 ;; isle of kin",
-      "optional: along the outher edges there is a lesser jeweller's orb (fossilized formation)",
-      "optional: kill the_blind_beast for a rune",
+      "along the outher edges there is a lesser jeweller's orb (fossilized formation), if you need it",
+      "kill the_blind_beast (rune), if you need it",
       "enter areaidg4_1_2 ;; volcanic warrens"
     ],
     [
       "areaidg4_1_2 ;; volcanic warrens",
-      "optional (recommended): kill fire and lightning golems (one that dies last gives respective resistance ring)",
+      "kill fire and lightning golems (recommended, last to die gives res ring)",
       "kill krutog",
       "return to ship, and sail to areaidg4_3_1 ;; whakapanu island"
     ],
@@ -438,7 +423,7 @@
     [
       "areaidg4_8b ;; arastas (hostile)",
       "talk to npc, go inside, head back out and break the barrier (with dps)",
-      "optional: click both bells for 3 exalts, and 3 regals",
+      "click both bells for 3 exalts, and 3 regals, if you need currency",
       "kill torvian (stand next to left or right priest when he picks up a rock)",
       "enter areaidg4_10 ;; the excavation"
     ],
@@ -451,7 +436,7 @@
     [
       "areaidg4_town (img:town2) ;; kingsmarch",
       "set sail to areaidg4_11_1b ;; ngakanu (hostile)",
-      "optional: vaal league mechanic rewards greater jeweller's orb",
+      "vaal league mechanic rewards greater jeweller's orb, if you need it",
       "hug the right wall to enter areaidg4_11_2 ;; heart of the tribe"
     ],
     [
@@ -491,7 +476,7 @@
     ],
     [
       "areaidp1_4 ;; holten",
-      "optional: find the soul of the ferrymen in the center that sells useful runes",
+      "find the soul of the ferrymen in the center (sells useful runes, if you need them)",
       "enter areaidp1_5 ;; wolvenhold"
     ],
     [
@@ -548,7 +533,7 @@
     ],
     [
       "areaidp2_3 ;; sel khari sanctuary",
-      "optional: place the 2 baryas you find at their respective pedestals for amulet/ring",
+      "place the 2 baryas you find at their respective pedestals for amulet/ring, if needed",
       "kill elzarah",
       "talk to asala",
       "(img:portal) areaidp2_town (img:town2) ;; khari bazaar"
