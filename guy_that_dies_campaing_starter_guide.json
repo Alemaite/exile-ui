@@ -226,7 +226,7 @@
   ],
   [
     [
-      "kill rootredge",
+      "kill rootredge (level 9 skill gem), if you need it",
       "be at least level 29",
       "get lesser jeweller's orb from camp, if you need it",
       "enter areaidg3_town (img:town2) ;; ziggurat encampment"
@@ -272,7 +272,7 @@
     ],
     [
       "pull the levers, and move through the area to pull the final canal lever",
-      "enter areaidg3_7 ;; azak bog"
+      "if you need xp and a spirit gem, enter areaidg3_7 ;; azak bog"
     ],
     [
       "farm xp at the flameskin ritual (reset checkpoint), if you're behind in xp",
@@ -286,7 +286,7 @@
     ],
     [
       "pick up the waypoint",
-      "enter areaidg3_9 ;; molten vault"
+      "if you haven't unlocked the  reforging bench yet, enter areaidg3_9 ;; molten vault"
     ],
     [
       "kill mektul",
