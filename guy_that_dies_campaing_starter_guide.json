@@ -324,7 +324,6 @@
     ],
     [
       "follow the trail of sacrifice and place the sacrificial heart",
-      "reset checkpoint",
       "enter areaidg3_17 ;; black chambers"
     ],
     [
@@ -339,113 +338,99 @@
   ],
   [
     [
-      "enter areaidg4_2_1 ;; kedge bay"
+      "talk to doryani",
+      "talk to alva",
+      "talk to rog",
+      "talk to makoru",
+      "sail to areaidg4_2_1 ;; kedge bay"
     ],
     [
-      "areaidg4_2_1 ;; kedge bay",
       "enter areaidg4_2_2 ;; journey's end"
     ],
     [
-      "areaidg4_2_2 ;; journey's end",
       "kill captain_hartlin",
       "(img:portal) areaidg4_town (img:town2) ;; kingsmarch"
     ],
     [
-      "areaidg4_town (img:town2) ;; kingsmarch",
-      "turn quest in to dannig"
+      "turn quest in to dannig",
+      "enter areaidg4_2_2 ;; journey's end"
     ],
     [
-      "enter areaidg4_2_2 ;; journey's end",
       "start the delirium",
       "kill omniphobia",
       "return to ship, and enter areaidg4_1_1 ;; isle of kin"
     ],
     [
-      "areaidg4_1_1 ;; isle of kin",
       "along the outher edges there is a lesser jeweller's orb (fossilized formation), if you need it",
       "kill the_blind_beast (rune), if you need it",
       "enter areaidg4_1_2 ;; volcanic warrens"
     ],
     [
-      "areaidg4_1_2 ;; volcanic warrens",
       "kill fire and lightning golems (recommended, last to die gives res ring)",
       "kill krutog",
       "return to ship, and sail to areaidg4_3_1 ;; whakapanu island"
     ],
     [
-      "areaidg4_3_1 ;; whakapanu island",
       "kill shark in the shark pit",
       "enter areaidg4_3_2 ;; singing caverns"
     ],
     [
-      "areaidg4_3_2 ;; singing caverns",
       "click the beckoning clam for pearl",
       "kill diamora",
       "return to ship, sail to areaidg4_5_1 ;; abandoned prison"
     ],
     [
-      "areaidg4_5_1 ;; abandoned prison",
       "get chapel key from necromancers",
       "open gates, choose reward from statues",
       "enter areaidg4_5_2 ;; solitary confinement"
     ],
     [
-      "areaidg4_5_2 ;; solitary confinement",
       "hug the wall, jump over barred walls",
       "kill the_prisoner (use ballista when prompted)",
       "(img:portal) areaidg4_town (img:town2) ;; kingsmarch"
     ],
     [
-      "areaidg4_town (img:town2) ;; kingsmarch",
       "turn in pearl to rog",
       "get greater rune from dannig",
       "set sail to areaidg4_7 ;; shrike island"
     ],
     [
-      "areaidg4_7 ;; shrike island",
       "tip: skip shrine go straight to boss, checkpoint back to shrine, kill boss with shrine",
       "kill scourge_of_the_skies",
       "talk to npc to unlock areaidg4_4_1 ;; eye of hinekora",
       "return to ship, sail to areaidg4_4_1 ;; eye of hinekora"
     ],
     [
-      "areaidg4_4_1 ;; eye of hinekora",
       "kill bosses, interact with well",
       "respawn at checkpoint, head over to areaidg4_4_2 ;; halls of the dead"
     ],
     [
-      "areaidg4_4_2 ;; halls of the dead",
       "kill monsters for tattoos (+resistance recommended)",
       "kill yama_the_white",
       "talk to navali for passive points",
       "return to ship, sail to areaidg4_8b ;; arastas (hostile)"
     ],
     [
-      "areaidg4_8b ;; arastas (hostile)",
       "talk to npc, go inside, head back out and break the barrier (with dps)",
       "click both bells for 3 exalts, and 3 regals, if you need currency",
       "kill torvian (stand next to left or right priest when he picks up a rock)",
       "enter areaidg4_10 ;; the excavation"
     ],
     [
-      "areaidg4_10 ;; the excavation",
       "tip: use shrine \"trick\" again",
       "kill benedictus",
       "(img:portal) areaidg4_town (img:town2) ;; kingsmarch"
     ],
     [
-      "areaidg4_town (img:town2) ;; kingsmarch",
       "set sail to areaidg4_11_1b ;; ngakanu (hostile)",
       "vaal league mechanic rewards greater jeweller's orb, if you need it",
       "hug the right wall to enter areaidg4_11_2 ;; heart of the tribe"
     ],
     [
-      "areaidg4_11_2 ;; heart of the tribe",
       "kill tavakai",
       "(img:portal) areaidg4_town (img:town2) ;; kingsmarch"
     ],
     [
-      "areaidg4_town (img:town2) ;; kingsmarch",
       "enter interlude 2 (vastiri desert)"
     ]
   ],
